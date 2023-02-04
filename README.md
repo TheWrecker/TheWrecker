@@ -1,4 +1,4 @@
-👋 Hi, I’m @TheWrecker, i'm a Periodontics resident
+👋 Hi, I’m @TheWrecker
 
 In Programming:
 - 👀 I’m interested in C++/DirectX/Data-oriented Designs
